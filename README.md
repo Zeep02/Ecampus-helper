@@ -9,6 +9,16 @@
 - 이캠퍼스 오늘의 할일 기능 복원
 - 이거 왜 없앤거야 꼴받게
 
+## 📥 다운로드
+
+### 최신 버전 (v1.0.0)
+[![Download](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/Zeep02/Ecampus-helper/releases/download/v1.0.0/ecampus_helper.exe)
+
+**릴리즈 페이지**: [링크](https://github.com/Zeep02/Ecampus-helper/releases/tag/v1.0.0)
+
+**직접 다운로드**: [ecampus_helper.exe](https://github.com/Zeep02/Ecampus-helper/releases/download/v1.0.0/ecampus_helper.exe)
+
+
 ## 문의 및 고지사항
 
 프로그램 사용 중 불편한 점이나 오류가 발생하면 언제든지 연락해주쇼..
