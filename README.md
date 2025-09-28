@@ -16,8 +16,6 @@
 
 **릴리즈 페이지**: [링크](https://github.com/Zeep02/Ecampus-helper/releases/tag/v1.0.0)
 
-**직접 다운로드**: [ecampus_helper.exe](https://github.com/Zeep02/Ecampus-helper/releases/download/v1.0.0/ecampus_helper.exe)
-
 
 ## 문의 및 고지사항
 
