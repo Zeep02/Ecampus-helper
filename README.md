@@ -11,10 +11,10 @@
 
 ## 📥 다운로드
 
-### 최신 버전 (v1.0.0)
-[![Download](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/Zeep02/Ecampus-helper/releases/download/v1.0.0/ecampus_helper.exe)
+### 최신 버전 (v1.0.1)
+[![Download](https://img.shields.io/badge/Download-v1.0.1-blue.svg)](https://github.com/Zeep02/Ecampus-helper/releases/download/v1.0.1/ecampus_helper.exe)
 
-**릴리즈 페이지**: [링크](https://github.com/Zeep02/Ecampus-helper/releases/tag/v1.0.0)
+**릴리즈 페이지**: [링크](https://github.com/Zeep02/Ecampus-helper/releases/tag/v1.0.1)
 
 
 ## 문의 및 고지사항
