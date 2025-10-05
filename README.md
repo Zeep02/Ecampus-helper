@@ -9,6 +9,8 @@
 
 # [❗❗❗사이트 링크❗❗❗](http:ecamp.ngrok.io/)
 
+https://ecamp.ngrok.io/ 로 고정 도메인 해뒀습니당.
+
 ## 주요 기능
 
 - 이캠퍼스 오늘의 할일 기능 복원
